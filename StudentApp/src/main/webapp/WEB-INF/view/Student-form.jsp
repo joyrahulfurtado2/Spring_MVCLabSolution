@@ -45,7 +45,7 @@
 			<div class="form-inline">
 
 				<input type="text" name="department" value="${Student.department}"
-					class="form-control mb-4 col-4" placeholder="Course">
+					class="form-control mb-4 col-4" placeholder="Department">
 
 
 
